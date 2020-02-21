@@ -123,7 +123,9 @@ class SortingRobot:
             else:
                 pass
 
-        # # * WHILE TRUE
+        # self.set_light_on()
+        # self.swap_item()
+        #
         # while self.light_is_on():
         #     while self.move_right():
         #         if self.compare_item() == False:
@@ -138,7 +140,8 @@ class SortingRobot:
         #                 self.swap_item()
         #                 self.move_right()
         #                 self.swap_item()
-        #     break
+        #                 break
+        # pass
 
 
 if __name__ == "__main__":
